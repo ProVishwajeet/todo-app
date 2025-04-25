@@ -25,7 +25,7 @@
     </div>
 
     <div class="container-fluid py-4">
-        <div class="row">
+        <div class="row main-container">
             <!-- Sidebar -->
             <div class="col-md-3 col-lg-2">
                 <div class="card shadow-sm mb-4">
