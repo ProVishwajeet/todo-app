@@ -1,0 +1,12 @@
+# PHP Coding Rules
+
+# 1. Use PSR-12 coding style
+# 2. Use strict types
+# 3. Use namespaces and autoloading
+# 4. Prefer dependency injection over global state
+# 5. Use exceptions for error handling
+# 6. Write unit tests for your code
+# 7. Use meaningful variable and function names
+# 8. Keep functions small and focused
+# 9. Use comments to explain complex logic
+# 10. Avoid using deprecated features 
